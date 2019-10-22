@@ -1,6 +1,6 @@
 # SimpleTextEditor
 
-Использовались инструменты: JDK 11, JavaFX 12, JavaFX Scene Builder 2.0.
+Использовались инструменты: JDK 11, JavaFX 13, JavaFX Scene Builder 2.0.
 
 
 
